@@ -49,6 +49,7 @@ body{
     font-size: 50px;
     outline: none;
     border: 5px solid black;
+    border-radius: 10px;
 }
 .content {    
     margin-top: 200px;
@@ -87,5 +88,69 @@ body{
     color: #E39D00;
 }
 .beven {
+    color: #E5E2DA;
+}
+.lunch {
+    background-color:#FF4F3C ;
+    padding: 30px;
+}
+.ltop{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: auto;
+    margin-bottom: -100px;
+    padding: 100px;
+    font-size:40px;
+}
+.lbot{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: auto;
+    margin-top: -100px;
+    padding: 100px;
+    font-size:40px;
+}
+.lodd , .leven {
+    padding: 30px;
+}
+.lodd {
+    background-color: #E7E3DB;
+    color: #FF4F3C;
+}
+.leven {
+    color: #E5E2DA;
+}
+.dinner {
+    background-color:#55ABB8 ;
+    padding: 30px;
+}
+.dtop{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: auto;
+    margin-bottom: -100px;
+    padding: 100px;
+    font-size:40px;
+}
+.dbot{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: auto;
+    margin-top: -100px;
+    padding: 100px;
+    font-size:40px;
+}
+.dodd , .deven {
+    padding: 30px;
+}
+.dodd {
+    background-color: #E7E3DB;
+    color: #55ABB8;
+}
+.deven {
     color: #E5E2DA;
 }
