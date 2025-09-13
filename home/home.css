@@ -154,3 +154,30 @@ body{
 .deven {
     color: #E5E2DA;
 }
+.links h2{
+    font-size: 50px;
+}
+.btn-end {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.btn-end button{
+    width: 500px;
+    height: auto;
+    font-size: 50px;
+    outline: none;
+    border: 5px solid black;
+    border-radius: 10px;
+}
+#dd {
+    width: 500px;
+    height: auto;
+    font-size: 50px;
+    outline: none;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin-top: 50px;
+}
